@@ -1,0 +1,10 @@
+C:\Users\youdong\source\repos\색상설정\색상설정\bin\Debug\색상설정.exe.config
+C:\Users\youdong\source\repos\색상설정\색상설정\bin\Debug\색상설정.exe
+C:\Users\youdong\source\repos\색상설정\색상설정\bin\Debug\색상설정.pdb
+C:\Users\youdong\source\repos\색상설정\색상설정\obj\Debug\색상설정.csprojAssemblyReference.cache
+C:\Users\youdong\source\repos\색상설정\색상설정\obj\Debug\색상설정.Form1.resources
+C:\Users\youdong\source\repos\색상설정\색상설정\obj\Debug\색상설정.Properties.Resources.resources
+C:\Users\youdong\source\repos\색상설정\색상설정\obj\Debug\색상설정.csproj.GenerateResource.cache
+C:\Users\youdong\source\repos\색상설정\색상설정\obj\Debug\색상설정.csproj.CoreCompileInputs.cache
+C:\Users\youdong\source\repos\색상설정\색상설정\obj\Debug\색상설정.exe
+C:\Users\youdong\source\repos\색상설정\색상설정\obj\Debug\색상설정.pdb

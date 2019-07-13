@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.271
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "비연결형 데이터베이스 Find()사용", "비연결형 데이터베이스 Find()사용\비연결형 데이터베이스 Find()사용.csproj", "{87160F41-FA5A-4F79-8EAD-F22D224CDAA5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{87160F41-FA5A-4F79-8EAD-F22D224CDAA5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{87160F41-FA5A-4F79-8EAD-F22D224CDAA5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{87160F41-FA5A-4F79-8EAD-F22D224CDAA5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{87160F41-FA5A-4F79-8EAD-F22D224CDAA5}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D5B66933-1F5E-43FF-AA4C-F7C26B93BC86}
+	EndGlobalSection
+EndGlobal

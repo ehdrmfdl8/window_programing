@@ -1,0 +1,10 @@
+C:\Users\youdong\source\repos\리스트뷰\리스트뷰\bin\Debug\리스트뷰.exe.config
+C:\Users\youdong\source\repos\리스트뷰\리스트뷰\bin\Debug\리스트뷰.exe
+C:\Users\youdong\source\repos\리스트뷰\리스트뷰\bin\Debug\리스트뷰.pdb
+C:\Users\youdong\source\repos\리스트뷰\리스트뷰\obj\Debug\리스트뷰.csprojAssemblyReference.cache
+C:\Users\youdong\source\repos\리스트뷰\리스트뷰\obj\Debug\리스트뷰.Form1.resources
+C:\Users\youdong\source\repos\리스트뷰\리스트뷰\obj\Debug\리스트뷰.Properties.Resources.resources
+C:\Users\youdong\source\repos\리스트뷰\리스트뷰\obj\Debug\리스트뷰.csproj.GenerateResource.cache
+C:\Users\youdong\source\repos\리스트뷰\리스트뷰\obj\Debug\리스트뷰.csproj.CoreCompileInputs.cache
+C:\Users\youdong\source\repos\리스트뷰\리스트뷰\obj\Debug\리스트뷰.exe
+C:\Users\youdong\source\repos\리스트뷰\리스트뷰\obj\Debug\리스트뷰.pdb

@@ -1,0 +1,10 @@
+C:\Users\youdong\source\repos\리스트 박스\리스트 박스\bin\Debug\리스트 박스.exe.config
+C:\Users\youdong\source\repos\리스트 박스\리스트 박스\bin\Debug\리스트 박스.exe
+C:\Users\youdong\source\repos\리스트 박스\리스트 박스\bin\Debug\리스트 박스.pdb
+C:\Users\youdong\source\repos\리스트 박스\리스트 박스\obj\Debug\리스트 박스.csprojAssemblyReference.cache
+C:\Users\youdong\source\repos\리스트 박스\리스트 박스\obj\Debug\리스트_박스.Form1.resources
+C:\Users\youdong\source\repos\리스트 박스\리스트 박스\obj\Debug\리스트_박스.Properties.Resources.resources
+C:\Users\youdong\source\repos\리스트 박스\리스트 박스\obj\Debug\리스트 박스.csproj.GenerateResource.cache
+C:\Users\youdong\source\repos\리스트 박스\리스트 박스\obj\Debug\리스트 박스.csproj.CoreCompileInputs.cache
+C:\Users\youdong\source\repos\리스트 박스\리스트 박스\obj\Debug\리스트 박스.exe
+C:\Users\youdong\source\repos\리스트 박스\리스트 박스\obj\Debug\리스트 박스.pdb

@@ -1,0 +1,10 @@
+C:\Users\youdong\source\repos\마우스\마우스\bin\Debug\마우스.exe.config
+C:\Users\youdong\source\repos\마우스\마우스\bin\Debug\마우스.exe
+C:\Users\youdong\source\repos\마우스\마우스\bin\Debug\마우스.pdb
+C:\Users\youdong\source\repos\마우스\마우스\obj\Debug\마우스.csprojAssemblyReference.cache
+C:\Users\youdong\source\repos\마우스\마우스\obj\Debug\마우스.Form1.resources
+C:\Users\youdong\source\repos\마우스\마우스\obj\Debug\마우스.Properties.Resources.resources
+C:\Users\youdong\source\repos\마우스\마우스\obj\Debug\마우스.csproj.GenerateResource.cache
+C:\Users\youdong\source\repos\마우스\마우스\obj\Debug\마우스.csproj.CoreCompileInputs.cache
+C:\Users\youdong\source\repos\마우스\마우스\obj\Debug\마우스.exe
+C:\Users\youdong\source\repos\마우스\마우스\obj\Debug\마우스.pdb

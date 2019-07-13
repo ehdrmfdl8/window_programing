@@ -1,0 +1,11 @@
+C:\Users\youdong\source\repos\모델리스형 대화상자\모델리스형 대화상자\bin\Debug\모델리스형 대화상자.exe.config
+C:\Users\youdong\source\repos\모델리스형 대화상자\모델리스형 대화상자\bin\Debug\모델리스형 대화상자.exe
+C:\Users\youdong\source\repos\모델리스형 대화상자\모델리스형 대화상자\bin\Debug\모델리스형 대화상자.pdb
+C:\Users\youdong\source\repos\모델리스형 대화상자\모델리스형 대화상자\obj\Debug\모델리스형_대화상자.Form1.resources
+C:\Users\youdong\source\repos\모델리스형 대화상자\모델리스형 대화상자\obj\Debug\모델리스형_대화상자.Properties.Resources.resources
+C:\Users\youdong\source\repos\모델리스형 대화상자\모델리스형 대화상자\obj\Debug\모델리스형 대화상자.csproj.GenerateResource.cache
+C:\Users\youdong\source\repos\모델리스형 대화상자\모델리스형 대화상자\obj\Debug\모델리스형 대화상자.csproj.CoreCompileInputs.cache
+C:\Users\youdong\source\repos\모델리스형 대화상자\모델리스형 대화상자\obj\Debug\모델리스형 대화상자.exe
+C:\Users\youdong\source\repos\모델리스형 대화상자\모델리스형 대화상자\obj\Debug\모델리스형 대화상자.pdb
+C:\Users\youdong\source\repos\모델리스형 대화상자\모델리스형 대화상자\obj\Debug\모델리스형 대화상자.csprojAssemblyReference.cache
+C:\Users\youdong\source\repos\모델리스형 대화상자\모델리스형 대화상자\obj\Debug\모델리스형_대화상자.Form2.resources

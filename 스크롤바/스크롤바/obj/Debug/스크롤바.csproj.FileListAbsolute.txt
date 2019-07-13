@@ -1,0 +1,9 @@
+C:\Users\youdong\source\repos\스크롤바\스크롤바\bin\Debug\스크롤바.exe.config
+C:\Users\youdong\source\repos\스크롤바\스크롤바\bin\Debug\스크롤바.exe
+C:\Users\youdong\source\repos\스크롤바\스크롤바\bin\Debug\스크롤바.pdb
+C:\Users\youdong\source\repos\스크롤바\스크롤바\obj\Debug\스크롤바.Form1.resources
+C:\Users\youdong\source\repos\스크롤바\스크롤바\obj\Debug\스크롤바.Properties.Resources.resources
+C:\Users\youdong\source\repos\스크롤바\스크롤바\obj\Debug\스크롤바.csproj.GenerateResource.cache
+C:\Users\youdong\source\repos\스크롤바\스크롤바\obj\Debug\스크롤바.csproj.CoreCompileInputs.cache
+C:\Users\youdong\source\repos\스크롤바\스크롤바\obj\Debug\스크롤바.exe
+C:\Users\youdong\source\repos\스크롤바\스크롤바\obj\Debug\스크롤바.pdb

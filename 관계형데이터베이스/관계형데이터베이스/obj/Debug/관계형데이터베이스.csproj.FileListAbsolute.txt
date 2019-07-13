@@ -1,0 +1,10 @@
+C:\Users\youdong\source\repos\관계형데이터베이스\관계형데이터베이스\bin\Debug\관계형데이터베이스.exe.config
+C:\Users\youdong\source\repos\관계형데이터베이스\관계형데이터베이스\bin\Debug\관계형데이터베이스.exe
+C:\Users\youdong\source\repos\관계형데이터베이스\관계형데이터베이스\bin\Debug\관계형데이터베이스.pdb
+C:\Users\youdong\source\repos\관계형데이터베이스\관계형데이터베이스\obj\Debug\관계형데이터베이스.csprojAssemblyReference.cache
+C:\Users\youdong\source\repos\관계형데이터베이스\관계형데이터베이스\obj\Debug\관계형데이터베이스.Form1.resources
+C:\Users\youdong\source\repos\관계형데이터베이스\관계형데이터베이스\obj\Debug\관계형데이터베이스.Properties.Resources.resources
+C:\Users\youdong\source\repos\관계형데이터베이스\관계형데이터베이스\obj\Debug\관계형데이터베이스.csproj.GenerateResource.cache
+C:\Users\youdong\source\repos\관계형데이터베이스\관계형데이터베이스\obj\Debug\관계형데이터베이스.csproj.CoreCompileInputs.cache
+C:\Users\youdong\source\repos\관계형데이터베이스\관계형데이터베이스\obj\Debug\관계형데이터베이스.exe
+C:\Users\youdong\source\repos\관계형데이터베이스\관계형데이터베이스\obj\Debug\관계형데이터베이스.pdb

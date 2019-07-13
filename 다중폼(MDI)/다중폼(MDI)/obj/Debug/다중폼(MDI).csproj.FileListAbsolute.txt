@@ -1,0 +1,10 @@
+C:\Users\youdong\source\repos\다중폼(MDI)\다중폼(MDI)\bin\Debug\다중폼(MDI).exe.config
+C:\Users\youdong\source\repos\다중폼(MDI)\다중폼(MDI)\bin\Debug\다중폼(MDI).exe
+C:\Users\youdong\source\repos\다중폼(MDI)\다중폼(MDI)\bin\Debug\다중폼(MDI).pdb
+C:\Users\youdong\source\repos\다중폼(MDI)\다중폼(MDI)\obj\Debug\다중폼(MDI).csprojAssemblyReference.cache
+C:\Users\youdong\source\repos\다중폼(MDI)\다중폼(MDI)\obj\Debug\다중폼_MDI_.Form1.resources
+C:\Users\youdong\source\repos\다중폼(MDI)\다중폼(MDI)\obj\Debug\다중폼_MDI_.Properties.Resources.resources
+C:\Users\youdong\source\repos\다중폼(MDI)\다중폼(MDI)\obj\Debug\다중폼(MDI).csproj.GenerateResource.cache
+C:\Users\youdong\source\repos\다중폼(MDI)\다중폼(MDI)\obj\Debug\다중폼(MDI).csproj.CoreCompileInputs.cache
+C:\Users\youdong\source\repos\다중폼(MDI)\다중폼(MDI)\obj\Debug\다중폼(MDI).exe
+C:\Users\youdong\source\repos\다중폼(MDI)\다중폼(MDI)\obj\Debug\다중폼(MDI).pdb

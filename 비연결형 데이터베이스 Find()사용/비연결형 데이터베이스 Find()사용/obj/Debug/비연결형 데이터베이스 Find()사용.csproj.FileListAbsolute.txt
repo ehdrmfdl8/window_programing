@@ -1,0 +1,7 @@
+C:\Users\youdong\source\repos\비연결형 데이터베이스 Find()사용\비연결형 데이터베이스 Find()사용\obj\Debug\비연결형 데이터베이스 Find()사용.csprojAssemblyReference.cache
+C:\Users\youdong\source\repos\비연결형 데이터베이스 Find()사용\비연결형 데이터베이스 Find()사용\obj\Debug\비연결형 데이터베이스 Find()사용.csproj.CoreCompileInputs.cache
+C:\Users\youdong\source\repos\비연결형 데이터베이스 Find()사용\비연결형 데이터베이스 Find()사용\bin\Debug\비연결형 데이터베이스 Find()사용.exe.config
+C:\Users\youdong\source\repos\비연결형 데이터베이스 Find()사용\비연결형 데이터베이스 Find()사용\bin\Debug\비연결형 데이터베이스 Find()사용.exe
+C:\Users\youdong\source\repos\비연결형 데이터베이스 Find()사용\비연결형 데이터베이스 Find()사용\bin\Debug\비연결형 데이터베이스 Find()사용.pdb
+C:\Users\youdong\source\repos\비연결형 데이터베이스 Find()사용\비연결형 데이터베이스 Find()사용\obj\Debug\비연결형 데이터베이스 Find()사용.exe
+C:\Users\youdong\source\repos\비연결형 데이터베이스 Find()사용\비연결형 데이터베이스 Find()사용\obj\Debug\비연결형 데이터베이스 Find()사용.pdb

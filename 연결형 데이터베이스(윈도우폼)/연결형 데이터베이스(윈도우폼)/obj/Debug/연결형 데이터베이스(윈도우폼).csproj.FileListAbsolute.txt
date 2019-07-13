@@ -1,0 +1,10 @@
+C:\Users\youdong\source\repos\연결형 데이터베이스(윈도우폼)\연결형 데이터베이스(윈도우폼)\bin\Debug\연결형 데이터베이스(윈도우폼).exe.config
+C:\Users\youdong\source\repos\연결형 데이터베이스(윈도우폼)\연결형 데이터베이스(윈도우폼)\bin\Debug\연결형 데이터베이스(윈도우폼).exe
+C:\Users\youdong\source\repos\연결형 데이터베이스(윈도우폼)\연결형 데이터베이스(윈도우폼)\bin\Debug\연결형 데이터베이스(윈도우폼).pdb
+C:\Users\youdong\source\repos\연결형 데이터베이스(윈도우폼)\연결형 데이터베이스(윈도우폼)\obj\Debug\연결형 데이터베이스(윈도우폼).csprojAssemblyReference.cache
+C:\Users\youdong\source\repos\연결형 데이터베이스(윈도우폼)\연결형 데이터베이스(윈도우폼)\obj\Debug\연결형_데이터베이스_윈도우폼_.Form1.resources
+C:\Users\youdong\source\repos\연결형 데이터베이스(윈도우폼)\연결형 데이터베이스(윈도우폼)\obj\Debug\연결형_데이터베이스_윈도우폼_.Properties.Resources.resources
+C:\Users\youdong\source\repos\연결형 데이터베이스(윈도우폼)\연결형 데이터베이스(윈도우폼)\obj\Debug\연결형 데이터베이스(윈도우폼).csproj.GenerateResource.cache
+C:\Users\youdong\source\repos\연결형 데이터베이스(윈도우폼)\연결형 데이터베이스(윈도우폼)\obj\Debug\연결형 데이터베이스(윈도우폼).csproj.CoreCompileInputs.cache
+C:\Users\youdong\source\repos\연결형 데이터베이스(윈도우폼)\연결형 데이터베이스(윈도우폼)\obj\Debug\연결형 데이터베이스(윈도우폼).exe
+C:\Users\youdong\source\repos\연결형 데이터베이스(윈도우폼)\연결형 데이터베이스(윈도우폼)\obj\Debug\연결형 데이터베이스(윈도우폼).pdb

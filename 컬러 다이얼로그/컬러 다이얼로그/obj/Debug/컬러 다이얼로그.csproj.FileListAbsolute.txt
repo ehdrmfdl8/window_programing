@@ -1,0 +1,9 @@
+C:\Users\youdong\source\repos\컬러 다이얼로그\컬러 다이얼로그\bin\Debug\컬러 다이얼로그.exe.config
+C:\Users\youdong\source\repos\컬러 다이얼로그\컬러 다이얼로그\bin\Debug\컬러 다이얼로그.exe
+C:\Users\youdong\source\repos\컬러 다이얼로그\컬러 다이얼로그\bin\Debug\컬러 다이얼로그.pdb
+C:\Users\youdong\source\repos\컬러 다이얼로그\컬러 다이얼로그\obj\Debug\컬러_다이얼로그.Form1.resources
+C:\Users\youdong\source\repos\컬러 다이얼로그\컬러 다이얼로그\obj\Debug\컬러_다이얼로그.Properties.Resources.resources
+C:\Users\youdong\source\repos\컬러 다이얼로그\컬러 다이얼로그\obj\Debug\컬러 다이얼로그.csproj.GenerateResource.cache
+C:\Users\youdong\source\repos\컬러 다이얼로그\컬러 다이얼로그\obj\Debug\컬러 다이얼로그.csproj.CoreCompileInputs.cache
+C:\Users\youdong\source\repos\컬러 다이얼로그\컬러 다이얼로그\obj\Debug\컬러 다이얼로그.exe
+C:\Users\youdong\source\repos\컬러 다이얼로그\컬러 다이얼로그\obj\Debug\컬러 다이얼로그.pdb

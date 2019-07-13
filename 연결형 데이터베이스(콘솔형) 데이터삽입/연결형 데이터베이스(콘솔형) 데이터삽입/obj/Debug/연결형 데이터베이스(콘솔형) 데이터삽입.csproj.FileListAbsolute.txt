@@ -1,0 +1,14 @@
+C:\Users\youdong\source\repos\연결형 데이터베이스(콘솔형) 데이터삽입\연결형 데이터베이스(콘솔형) 데이터삽입\bin\Debug\연결형 데이터베이스(콘솔형) 데이터삽입.exe.config
+C:\Users\youdong\source\repos\연결형 데이터베이스(콘솔형) 데이터삽입\연결형 데이터베이스(콘솔형) 데이터삽입\bin\Debug\연결형 데이터베이스(콘솔형) 데이터삽입.exe
+C:\Users\youdong\source\repos\연결형 데이터베이스(콘솔형) 데이터삽입\연결형 데이터베이스(콘솔형) 데이터삽입\bin\Debug\연결형 데이터베이스(콘솔형) 데이터삽입.pdb
+C:\Users\youdong\source\repos\연결형 데이터베이스(콘솔형) 데이터삽입\연결형 데이터베이스(콘솔형) 데이터삽입\obj\Debug\연결형 데이터베이스(콘솔형) 데이터삽입.csprojAssemblyReference.cache
+C:\Users\youdong\source\repos\연결형 데이터베이스(콘솔형) 데이터삽입\연결형 데이터베이스(콘솔형) 데이터삽입\obj\Debug\연결형 데이터베이스(콘솔형) 데이터삽입.csproj.CoreCompileInputs.cache
+C:\Users\youdong\source\repos\연결형 데이터베이스(콘솔형) 데이터삽입\연결형 데이터베이스(콘솔형) 데이터삽입\obj\Debug\연결형 데이터베이스(콘솔형) 데이터삽입.exe
+C:\Users\youdong\source\repos\연결형 데이터베이스(콘솔형) 데이터삽입\연결형 데이터베이스(콘솔형) 데이터삽입\obj\Debug\연결형 데이터베이스(콘솔형) 데이터삽입.pdb
+D:\source\repos\C#\연결형 데이터베이스(콘솔형) 데이터삽입\연결형 데이터베이스(콘솔형) 데이터삽입\bin\Debug\연결형 데이터베이스(콘솔형) 데이터삽입.exe.config
+D:\source\repos\C#\연결형 데이터베이스(콘솔형) 데이터삽입\연결형 데이터베이스(콘솔형) 데이터삽입\bin\Debug\연결형 데이터베이스(콘솔형) 데이터삽입.exe
+D:\source\repos\C#\연결형 데이터베이스(콘솔형) 데이터삽입\연결형 데이터베이스(콘솔형) 데이터삽입\bin\Debug\연결형 데이터베이스(콘솔형) 데이터삽입.pdb
+D:\source\repos\C#\연결형 데이터베이스(콘솔형) 데이터삽입\연결형 데이터베이스(콘솔형) 데이터삽입\obj\Debug\연결형 데이터베이스(콘솔형) 데이터삽입.csprojAssemblyReference.cache
+D:\source\repos\C#\연결형 데이터베이스(콘솔형) 데이터삽입\연결형 데이터베이스(콘솔형) 데이터삽입\obj\Debug\연결형 데이터베이스(콘솔형) 데이터삽입.csproj.CoreCompileInputs.cache
+D:\source\repos\C#\연결형 데이터베이스(콘솔형) 데이터삽입\연결형 데이터베이스(콘솔형) 데이터삽입\obj\Debug\연결형 데이터베이스(콘솔형) 데이터삽입.exe
+D:\source\repos\C#\연결형 데이터베이스(콘솔형) 데이터삽입\연결형 데이터베이스(콘솔형) 데이터삽입\obj\Debug\연결형 데이터베이스(콘솔형) 데이터삽입.pdb

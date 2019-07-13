@@ -1,0 +1,10 @@
+C:\Users\youdong\source\repos\키보드_KeyPress\키보드_KeyPress\bin\Debug\키보드_KeyPress.exe.config
+C:\Users\youdong\source\repos\키보드_KeyPress\키보드_KeyPress\bin\Debug\키보드_KeyPress.exe
+C:\Users\youdong\source\repos\키보드_KeyPress\키보드_KeyPress\bin\Debug\키보드_KeyPress.pdb
+C:\Users\youdong\source\repos\키보드_KeyPress\키보드_KeyPress\obj\Debug\키보드_KeyPress.csprojAssemblyReference.cache
+C:\Users\youdong\source\repos\키보드_KeyPress\키보드_KeyPress\obj\Debug\키보드_KeyPress.Form1.resources
+C:\Users\youdong\source\repos\키보드_KeyPress\키보드_KeyPress\obj\Debug\키보드_KeyPress.Properties.Resources.resources
+C:\Users\youdong\source\repos\키보드_KeyPress\키보드_KeyPress\obj\Debug\키보드_KeyPress.csproj.GenerateResource.cache
+C:\Users\youdong\source\repos\키보드_KeyPress\키보드_KeyPress\obj\Debug\키보드_KeyPress.csproj.CoreCompileInputs.cache
+C:\Users\youdong\source\repos\키보드_KeyPress\키보드_KeyPress\obj\Debug\키보드_KeyPress.exe
+C:\Users\youdong\source\repos\키보드_KeyPress\키보드_KeyPress\obj\Debug\키보드_KeyPress.pdb

@@ -1,0 +1,9 @@
+C:\Users\youdong\source\repos\트랙바\트랙바\bin\Debug\트랙바.exe.config
+C:\Users\youdong\source\repos\트랙바\트랙바\bin\Debug\트랙바.exe
+C:\Users\youdong\source\repos\트랙바\트랙바\bin\Debug\트랙바.pdb
+C:\Users\youdong\source\repos\트랙바\트랙바\obj\Debug\트랙바.Form1.resources
+C:\Users\youdong\source\repos\트랙바\트랙바\obj\Debug\트랙바.Properties.Resources.resources
+C:\Users\youdong\source\repos\트랙바\트랙바\obj\Debug\트랙바.csproj.GenerateResource.cache
+C:\Users\youdong\source\repos\트랙바\트랙바\obj\Debug\트랙바.csproj.CoreCompileInputs.cache
+C:\Users\youdong\source\repos\트랙바\트랙바\obj\Debug\트랙바.exe
+C:\Users\youdong\source\repos\트랙바\트랙바\obj\Debug\트랙바.pdb

@@ -1,0 +1,10 @@
+C:\Users\youdong\source\repos\스크롤\스크롤\bin\Debug\스크롤.exe.config
+C:\Users\youdong\source\repos\스크롤\스크롤\bin\Debug\스크롤.exe
+C:\Users\youdong\source\repos\스크롤\스크롤\bin\Debug\스크롤.pdb
+C:\Users\youdong\source\repos\스크롤\스크롤\obj\Debug\스크롤.csprojAssemblyReference.cache
+C:\Users\youdong\source\repos\스크롤\스크롤\obj\Debug\스크롤.Form1.resources
+C:\Users\youdong\source\repos\스크롤\스크롤\obj\Debug\스크롤.Properties.Resources.resources
+C:\Users\youdong\source\repos\스크롤\스크롤\obj\Debug\스크롤.csproj.GenerateResource.cache
+C:\Users\youdong\source\repos\스크롤\스크롤\obj\Debug\스크롤.csproj.CoreCompileInputs.cache
+C:\Users\youdong\source\repos\스크롤\스크롤\obj\Debug\스크롤.exe
+C:\Users\youdong\source\repos\스크롤\스크롤\obj\Debug\스크롤.pdb

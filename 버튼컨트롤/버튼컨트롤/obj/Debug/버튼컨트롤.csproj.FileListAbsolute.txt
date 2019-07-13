@@ -1,0 +1,10 @@
+C:\Users\youdong\source\repos\버튼컨트롤\버튼컨트롤\obj\Debug\버튼컨트롤.csprojAssemblyReference.cache
+C:\Users\youdong\source\repos\버튼컨트롤\버튼컨트롤\obj\Debug\버튼컨트롤.Form1.resources
+C:\Users\youdong\source\repos\버튼컨트롤\버튼컨트롤\obj\Debug\버튼컨트롤.Properties.Resources.resources
+C:\Users\youdong\source\repos\버튼컨트롤\버튼컨트롤\obj\Debug\버튼컨트롤.csproj.GenerateResource.cache
+C:\Users\youdong\source\repos\버튼컨트롤\버튼컨트롤\obj\Debug\버튼컨트롤.csproj.CoreCompileInputs.cache
+C:\Users\youdong\source\repos\버튼컨트롤\버튼컨트롤\bin\Debug\버튼컨트롤.exe.config
+C:\Users\youdong\source\repos\버튼컨트롤\버튼컨트롤\bin\Debug\버튼컨트롤.exe
+C:\Users\youdong\source\repos\버튼컨트롤\버튼컨트롤\bin\Debug\버튼컨트롤.pdb
+C:\Users\youdong\source\repos\버튼컨트롤\버튼컨트롤\obj\Debug\버튼컨트롤.exe
+C:\Users\youdong\source\repos\버튼컨트롤\버튼컨트롤\obj\Debug\버튼컨트롤.pdb

@@ -1,0 +1,6 @@
+C:\Users\youdong\source\repos\제네릭을 이용한 직렬화\제네릭을 이용한 직렬화\bin\Debug\제네릭을 이용한 직렬화.exe.config
+C:\Users\youdong\source\repos\제네릭을 이용한 직렬화\제네릭을 이용한 직렬화\bin\Debug\제네릭을 이용한 직렬화.exe
+C:\Users\youdong\source\repos\제네릭을 이용한 직렬화\제네릭을 이용한 직렬화\bin\Debug\제네릭을 이용한 직렬화.pdb
+C:\Users\youdong\source\repos\제네릭을 이용한 직렬화\제네릭을 이용한 직렬화\obj\Debug\제네릭을 이용한 직렬화.csproj.CoreCompileInputs.cache
+C:\Users\youdong\source\repos\제네릭을 이용한 직렬화\제네릭을 이용한 직렬화\obj\Debug\제네릭을 이용한 직렬화.exe
+C:\Users\youdong\source\repos\제네릭을 이용한 직렬화\제네릭을 이용한 직렬화\obj\Debug\제네릭을 이용한 직렬화.pdb

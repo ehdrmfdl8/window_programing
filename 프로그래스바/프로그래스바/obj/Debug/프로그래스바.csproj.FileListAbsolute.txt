@@ -1,0 +1,10 @@
+C:\Users\youdong\source\repos\프로그래스바\프로그래스바\bin\Debug\프로그래스바.exe.config
+C:\Users\youdong\source\repos\프로그래스바\프로그래스바\bin\Debug\프로그래스바.exe
+C:\Users\youdong\source\repos\프로그래스바\프로그래스바\bin\Debug\프로그래스바.pdb
+C:\Users\youdong\source\repos\프로그래스바\프로그래스바\obj\Debug\프로그래스바.csprojAssemblyReference.cache
+C:\Users\youdong\source\repos\프로그래스바\프로그래스바\obj\Debug\프로그래스바.Form1.resources
+C:\Users\youdong\source\repos\프로그래스바\프로그래스바\obj\Debug\프로그래스바.Properties.Resources.resources
+C:\Users\youdong\source\repos\프로그래스바\프로그래스바\obj\Debug\프로그래스바.csproj.GenerateResource.cache
+C:\Users\youdong\source\repos\프로그래스바\프로그래스바\obj\Debug\프로그래스바.csproj.CoreCompileInputs.cache
+C:\Users\youdong\source\repos\프로그래스바\프로그래스바\obj\Debug\프로그래스바.exe
+C:\Users\youdong\source\repos\프로그래스바\프로그래스바\obj\Debug\프로그래스바.pdb

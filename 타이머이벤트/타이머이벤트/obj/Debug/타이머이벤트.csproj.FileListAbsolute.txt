@@ -1,0 +1,10 @@
+C:\Users\youdong\source\repos\타이머이벤트\타이머이벤트\bin\Debug\타이머이벤트.exe.config
+C:\Users\youdong\source\repos\타이머이벤트\타이머이벤트\bin\Debug\타이머이벤트.exe
+C:\Users\youdong\source\repos\타이머이벤트\타이머이벤트\bin\Debug\타이머이벤트.pdb
+C:\Users\youdong\source\repos\타이머이벤트\타이머이벤트\obj\Debug\타이머이벤트.csprojAssemblyReference.cache
+C:\Users\youdong\source\repos\타이머이벤트\타이머이벤트\obj\Debug\타이머이벤트.Form1.resources
+C:\Users\youdong\source\repos\타이머이벤트\타이머이벤트\obj\Debug\타이머이벤트.Properties.Resources.resources
+C:\Users\youdong\source\repos\타이머이벤트\타이머이벤트\obj\Debug\타이머이벤트.csproj.GenerateResource.cache
+C:\Users\youdong\source\repos\타이머이벤트\타이머이벤트\obj\Debug\타이머이벤트.csproj.CoreCompileInputs.cache
+C:\Users\youdong\source\repos\타이머이벤트\타이머이벤트\obj\Debug\타이머이벤트.exe
+C:\Users\youdong\source\repos\타이머이벤트\타이머이벤트\obj\Debug\타이머이벤트.pdb

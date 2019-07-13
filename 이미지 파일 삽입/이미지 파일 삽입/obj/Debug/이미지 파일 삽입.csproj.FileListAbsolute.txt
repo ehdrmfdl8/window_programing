@@ -1,0 +1,9 @@
+C:\Users\youdong\source\repos\이미지 파일 삽입\이미지 파일 삽입\bin\Debug\이미지 파일 삽입.exe.config
+C:\Users\youdong\source\repos\이미지 파일 삽입\이미지 파일 삽입\bin\Debug\이미지 파일 삽입.exe
+C:\Users\youdong\source\repos\이미지 파일 삽입\이미지 파일 삽입\bin\Debug\이미지 파일 삽입.pdb
+C:\Users\youdong\source\repos\이미지 파일 삽입\이미지 파일 삽입\obj\Debug\이미지_파일_삽입.Form1.resources
+C:\Users\youdong\source\repos\이미지 파일 삽입\이미지 파일 삽입\obj\Debug\이미지_파일_삽입.Properties.Resources.resources
+C:\Users\youdong\source\repos\이미지 파일 삽입\이미지 파일 삽입\obj\Debug\이미지 파일 삽입.csproj.GenerateResource.cache
+C:\Users\youdong\source\repos\이미지 파일 삽입\이미지 파일 삽입\obj\Debug\이미지 파일 삽입.csproj.CoreCompileInputs.cache
+C:\Users\youdong\source\repos\이미지 파일 삽입\이미지 파일 삽입\obj\Debug\이미지 파일 삽입.exe
+C:\Users\youdong\source\repos\이미지 파일 삽입\이미지 파일 삽입\obj\Debug\이미지 파일 삽입.pdb

@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.271
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "메인폼과 모달형 대화상자 간의 데이터 전송", "메인폼과 모달형 대화상자 간의 데이터 전송\메인폼과 모달형 대화상자 간의 데이터 전송.csproj", "{0122758F-0599-471A-857D-62C6EE3EBBD1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0122758F-0599-471A-857D-62C6EE3EBBD1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0122758F-0599-471A-857D-62C6EE3EBBD1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0122758F-0599-471A-857D-62C6EE3EBBD1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0122758F-0599-471A-857D-62C6EE3EBBD1}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4B99E2DE-7A55-4F0C-ABC5-E1DFA1EB4B64}
+	EndGlobalSection
+EndGlobal

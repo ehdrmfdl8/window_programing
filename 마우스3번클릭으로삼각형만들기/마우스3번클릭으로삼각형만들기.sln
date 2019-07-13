@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.271
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "마우스3번클릭으로삼각형만들기", "마우스3번클릭으로삼각형만들기\마우스3번클릭으로삼각형만들기.csproj", "{58A1D576-74CF-4089-B2AD-8EC693FA3D56}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{58A1D576-74CF-4089-B2AD-8EC693FA3D56}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{58A1D576-74CF-4089-B2AD-8EC693FA3D56}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{58A1D576-74CF-4089-B2AD-8EC693FA3D56}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{58A1D576-74CF-4089-B2AD-8EC693FA3D56}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {857E2DCB-4204-4FC5-87C2-FD5ADD36D77B}
+	EndGlobalSection
+EndGlobal

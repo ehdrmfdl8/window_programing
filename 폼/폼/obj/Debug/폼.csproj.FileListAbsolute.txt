@@ -1,0 +1,10 @@
+C:\Users\youdong\source\repos\폼\폼\bin\Debug\폼.exe.config
+C:\Users\youdong\source\repos\폼\폼\bin\Debug\폼.exe
+C:\Users\youdong\source\repos\폼\폼\bin\Debug\폼.pdb
+C:\Users\youdong\source\repos\폼\폼\obj\Debug\폼.csprojAssemblyReference.cache
+C:\Users\youdong\source\repos\폼\폼\obj\Debug\폼.Form1.resources
+C:\Users\youdong\source\repos\폼\폼\obj\Debug\폼.Properties.Resources.resources
+C:\Users\youdong\source\repos\폼\폼\obj\Debug\폼.csproj.GenerateResource.cache
+C:\Users\youdong\source\repos\폼\폼\obj\Debug\폼.csproj.CoreCompileInputs.cache
+C:\Users\youdong\source\repos\폼\폼\obj\Debug\폼.exe
+C:\Users\youdong\source\repos\폼\폼\obj\Debug\폼.pdb

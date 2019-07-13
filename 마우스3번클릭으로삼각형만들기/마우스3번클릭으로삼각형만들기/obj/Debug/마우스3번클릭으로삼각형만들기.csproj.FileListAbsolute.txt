@@ -1,0 +1,10 @@
+C:\Users\youdong\source\repos\마우스3번클릭으로삼각형만들기\마우스3번클릭으로삼각형만들기\bin\Debug\마우스3번클릭으로삼각형만들기.exe.config
+C:\Users\youdong\source\repos\마우스3번클릭으로삼각형만들기\마우스3번클릭으로삼각형만들기\bin\Debug\마우스3번클릭으로삼각형만들기.exe
+C:\Users\youdong\source\repos\마우스3번클릭으로삼각형만들기\마우스3번클릭으로삼각형만들기\bin\Debug\마우스3번클릭으로삼각형만들기.pdb
+C:\Users\youdong\source\repos\마우스3번클릭으로삼각형만들기\마우스3번클릭으로삼각형만들기\obj\Debug\마우스3번클릭으로삼각형만들기.csprojAssemblyReference.cache
+C:\Users\youdong\source\repos\마우스3번클릭으로삼각형만들기\마우스3번클릭으로삼각형만들기\obj\Debug\마우스3번클릭으로삼각형만들기.Form1.resources
+C:\Users\youdong\source\repos\마우스3번클릭으로삼각형만들기\마우스3번클릭으로삼각형만들기\obj\Debug\마우스3번클릭으로삼각형만들기.Properties.Resources.resources
+C:\Users\youdong\source\repos\마우스3번클릭으로삼각형만들기\마우스3번클릭으로삼각형만들기\obj\Debug\마우스3번클릭으로삼각형만들기.csproj.GenerateResource.cache
+C:\Users\youdong\source\repos\마우스3번클릭으로삼각형만들기\마우스3번클릭으로삼각형만들기\obj\Debug\마우스3번클릭으로삼각형만들기.csproj.CoreCompileInputs.cache
+C:\Users\youdong\source\repos\마우스3번클릭으로삼각형만들기\마우스3번클릭으로삼각형만들기\obj\Debug\마우스3번클릭으로삼각형만들기.exe
+C:\Users\youdong\source\repos\마우스3번클릭으로삼각형만들기\마우스3번클릭으로삼각형만들기\obj\Debug\마우스3번클릭으로삼각형만들기.pdb

@@ -1,0 +1,7 @@
+C:\Users\youdong\source\repos\파일 입출력 예제2\파일 입출력 예제2\bin\Debug\파일 입출력 예제2.exe.config
+C:\Users\youdong\source\repos\파일 입출력 예제2\파일 입출력 예제2\bin\Debug\파일 입출력 예제2.exe
+C:\Users\youdong\source\repos\파일 입출력 예제2\파일 입출력 예제2\bin\Debug\파일 입출력 예제2.pdb
+C:\Users\youdong\source\repos\파일 입출력 예제2\파일 입출력 예제2\obj\Debug\파일 입출력 예제2.csprojAssemblyReference.cache
+C:\Users\youdong\source\repos\파일 입출력 예제2\파일 입출력 예제2\obj\Debug\파일 입출력 예제2.csproj.CoreCompileInputs.cache
+C:\Users\youdong\source\repos\파일 입출력 예제2\파일 입출력 예제2\obj\Debug\파일 입출력 예제2.exe
+C:\Users\youdong\source\repos\파일 입출력 예제2\파일 입출력 예제2\obj\Debug\파일 입출력 예제2.pdb

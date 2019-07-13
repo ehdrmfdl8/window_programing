@@ -1,0 +1,10 @@
+C:\Users\youdong\source\repos\탭 컨트롤\탭 컨트롤\bin\Debug\탭 컨트롤.exe.config
+C:\Users\youdong\source\repos\탭 컨트롤\탭 컨트롤\bin\Debug\탭 컨트롤.exe
+C:\Users\youdong\source\repos\탭 컨트롤\탭 컨트롤\bin\Debug\탭 컨트롤.pdb
+C:\Users\youdong\source\repos\탭 컨트롤\탭 컨트롤\obj\Debug\탭 컨트롤.csprojAssemblyReference.cache
+C:\Users\youdong\source\repos\탭 컨트롤\탭 컨트롤\obj\Debug\탭_컨트롤.Form1.resources
+C:\Users\youdong\source\repos\탭 컨트롤\탭 컨트롤\obj\Debug\탭_컨트롤.Properties.Resources.resources
+C:\Users\youdong\source\repos\탭 컨트롤\탭 컨트롤\obj\Debug\탭 컨트롤.csproj.GenerateResource.cache
+C:\Users\youdong\source\repos\탭 컨트롤\탭 컨트롤\obj\Debug\탭 컨트롤.csproj.CoreCompileInputs.cache
+C:\Users\youdong\source\repos\탭 컨트롤\탭 컨트롤\obj\Debug\탭 컨트롤.exe
+C:\Users\youdong\source\repos\탭 컨트롤\탭 컨트롤\obj\Debug\탭 컨트롤.pdb

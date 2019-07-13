@@ -1,0 +1,9 @@
+C:\Users\youdong\source\repos\콤보박스\콤보박스\bin\Debug\콤보박스.exe.config
+C:\Users\youdong\source\repos\콤보박스\콤보박스\bin\Debug\콤보박스.exe
+C:\Users\youdong\source\repos\콤보박스\콤보박스\bin\Debug\콤보박스.pdb
+C:\Users\youdong\source\repos\콤보박스\콤보박스\obj\Debug\콤보박스.Form1.resources
+C:\Users\youdong\source\repos\콤보박스\콤보박스\obj\Debug\콤보박스.Properties.Resources.resources
+C:\Users\youdong\source\repos\콤보박스\콤보박스\obj\Debug\콤보박스.csproj.GenerateResource.cache
+C:\Users\youdong\source\repos\콤보박스\콤보박스\obj\Debug\콤보박스.csproj.CoreCompileInputs.cache
+C:\Users\youdong\source\repos\콤보박스\콤보박스\obj\Debug\콤보박스.exe
+C:\Users\youdong\source\repos\콤보박스\콤보박스\obj\Debug\콤보박스.pdb

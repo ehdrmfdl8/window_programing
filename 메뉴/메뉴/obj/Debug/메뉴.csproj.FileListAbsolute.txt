@@ -1,0 +1,10 @@
+C:\Users\youdong\source\repos\메뉴\메뉴\bin\Debug\메뉴.exe.config
+C:\Users\youdong\source\repos\메뉴\메뉴\bin\Debug\메뉴.exe
+C:\Users\youdong\source\repos\메뉴\메뉴\bin\Debug\메뉴.pdb
+C:\Users\youdong\source\repos\메뉴\메뉴\obj\Debug\메뉴.csprojAssemblyReference.cache
+C:\Users\youdong\source\repos\메뉴\메뉴\obj\Debug\메뉴.Form1.resources
+C:\Users\youdong\source\repos\메뉴\메뉴\obj\Debug\메뉴.Properties.Resources.resources
+C:\Users\youdong\source\repos\메뉴\메뉴\obj\Debug\메뉴.csproj.GenerateResource.cache
+C:\Users\youdong\source\repos\메뉴\메뉴\obj\Debug\메뉴.csproj.CoreCompileInputs.cache
+C:\Users\youdong\source\repos\메뉴\메뉴\obj\Debug\메뉴.exe
+C:\Users\youdong\source\repos\메뉴\메뉴\obj\Debug\메뉴.pdb

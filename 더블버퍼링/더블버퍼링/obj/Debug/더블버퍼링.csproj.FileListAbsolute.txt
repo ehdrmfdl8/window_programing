@@ -1,0 +1,10 @@
+C:\Users\youdong\source\repos\더블버퍼링\더블버퍼링\bin\Debug\더블버퍼링.exe.config
+C:\Users\youdong\source\repos\더블버퍼링\더블버퍼링\bin\Debug\더블버퍼링.exe
+C:\Users\youdong\source\repos\더블버퍼링\더블버퍼링\bin\Debug\더블버퍼링.pdb
+C:\Users\youdong\source\repos\더블버퍼링\더블버퍼링\obj\Debug\더블버퍼링.csprojAssemblyReference.cache
+C:\Users\youdong\source\repos\더블버퍼링\더블버퍼링\obj\Debug\더블버퍼링.Form1.resources
+C:\Users\youdong\source\repos\더블버퍼링\더블버퍼링\obj\Debug\더블버퍼링.Properties.Resources.resources
+C:\Users\youdong\source\repos\더블버퍼링\더블버퍼링\obj\Debug\더블버퍼링.csproj.GenerateResource.cache
+C:\Users\youdong\source\repos\더블버퍼링\더블버퍼링\obj\Debug\더블버퍼링.csproj.CoreCompileInputs.cache
+C:\Users\youdong\source\repos\더블버퍼링\더블버퍼링\obj\Debug\더블버퍼링.exe
+C:\Users\youdong\source\repos\더블버퍼링\더블버퍼링\obj\Debug\더블버퍼링.pdb

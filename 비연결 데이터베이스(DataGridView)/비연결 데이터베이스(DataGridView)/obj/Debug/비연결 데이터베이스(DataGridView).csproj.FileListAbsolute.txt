@@ -1,0 +1,10 @@
+C:\Users\youdong\source\repos\비연결 데이터베이스(DataGridView)\비연결 데이터베이스(DataGridView)\bin\Debug\비연결 데이터베이스(DataGridView).exe.config
+C:\Users\youdong\source\repos\비연결 데이터베이스(DataGridView)\비연결 데이터베이스(DataGridView)\bin\Debug\비연결 데이터베이스(DataGridView).exe
+C:\Users\youdong\source\repos\비연결 데이터베이스(DataGridView)\비연결 데이터베이스(DataGridView)\bin\Debug\비연결 데이터베이스(DataGridView).pdb
+C:\Users\youdong\source\repos\비연결 데이터베이스(DataGridView)\비연결 데이터베이스(DataGridView)\obj\Debug\비연결 데이터베이스(DataGridView).csprojAssemblyReference.cache
+C:\Users\youdong\source\repos\비연결 데이터베이스(DataGridView)\비연결 데이터베이스(DataGridView)\obj\Debug\비연결_데이터베이스_DataGridView_.Form1.resources
+C:\Users\youdong\source\repos\비연결 데이터베이스(DataGridView)\비연결 데이터베이스(DataGridView)\obj\Debug\비연결_데이터베이스_DataGridView_.Properties.Resources.resources
+C:\Users\youdong\source\repos\비연결 데이터베이스(DataGridView)\비연결 데이터베이스(DataGridView)\obj\Debug\비연결 데이터베이스(DataGridView).csproj.GenerateResource.cache
+C:\Users\youdong\source\repos\비연결 데이터베이스(DataGridView)\비연결 데이터베이스(DataGridView)\obj\Debug\비연결 데이터베이스(DataGridView).csproj.CoreCompileInputs.cache
+C:\Users\youdong\source\repos\비연결 데이터베이스(DataGridView)\비연결 데이터베이스(DataGridView)\obj\Debug\비연결 데이터베이스(DataGridView).exe
+C:\Users\youdong\source\repos\비연결 데이터베이스(DataGridView)\비연결 데이터베이스(DataGridView)\obj\Debug\비연결 데이터베이스(DataGridView).pdb

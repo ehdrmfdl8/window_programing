@@ -1,0 +1,10 @@
+C:\Users\youdong\source\repos\키보드\키보드\bin\Debug\키보드.exe.config
+C:\Users\youdong\source\repos\키보드\키보드\bin\Debug\키보드.exe
+C:\Users\youdong\source\repos\키보드\키보드\bin\Debug\키보드.pdb
+C:\Users\youdong\source\repos\키보드\키보드\obj\Debug\키보드.csprojAssemblyReference.cache
+C:\Users\youdong\source\repos\키보드\키보드\obj\Debug\키보드.Form1.resources
+C:\Users\youdong\source\repos\키보드\키보드\obj\Debug\키보드.Properties.Resources.resources
+C:\Users\youdong\source\repos\키보드\키보드\obj\Debug\키보드.csproj.GenerateResource.cache
+C:\Users\youdong\source\repos\키보드\키보드\obj\Debug\키보드.csproj.CoreCompileInputs.cache
+C:\Users\youdong\source\repos\키보드\키보드\obj\Debug\키보드.exe
+C:\Users\youdong\source\repos\키보드\키보드\obj\Debug\키보드.pdb

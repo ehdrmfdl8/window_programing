@@ -1,0 +1,10 @@
+C:\Users\youdong\source\repos\패널\패널\bin\Debug\패널.exe.config
+C:\Users\youdong\source\repos\패널\패널\bin\Debug\패널.exe
+C:\Users\youdong\source\repos\패널\패널\bin\Debug\패널.pdb
+C:\Users\youdong\source\repos\패널\패널\obj\Debug\패널.csprojAssemblyReference.cache
+C:\Users\youdong\source\repos\패널\패널\obj\Debug\패널.Form1.resources
+C:\Users\youdong\source\repos\패널\패널\obj\Debug\패널.Properties.Resources.resources
+C:\Users\youdong\source\repos\패널\패널\obj\Debug\패널.csproj.GenerateResource.cache
+C:\Users\youdong\source\repos\패널\패널\obj\Debug\패널.csproj.CoreCompileInputs.cache
+C:\Users\youdong\source\repos\패널\패널\obj\Debug\패널.exe
+C:\Users\youdong\source\repos\패널\패널\obj\Debug\패널.pdb

@@ -1,0 +1,9 @@
+C:\Users\youdong\source\repos\업다운 컨트롤(Nemeric)\업다운 컨트롤(Nemeric)\bin\Debug\업다운 컨트롤(Nemeric).exe.config
+C:\Users\youdong\source\repos\업다운 컨트롤(Nemeric)\업다운 컨트롤(Nemeric)\bin\Debug\업다운 컨트롤(Nemeric).exe
+C:\Users\youdong\source\repos\업다운 컨트롤(Nemeric)\업다운 컨트롤(Nemeric)\bin\Debug\업다운 컨트롤(Nemeric).pdb
+C:\Users\youdong\source\repos\업다운 컨트롤(Nemeric)\업다운 컨트롤(Nemeric)\obj\Debug\업다운_컨트롤_Nemeric_.Form1.resources
+C:\Users\youdong\source\repos\업다운 컨트롤(Nemeric)\업다운 컨트롤(Nemeric)\obj\Debug\업다운_컨트롤_Nemeric_.Properties.Resources.resources
+C:\Users\youdong\source\repos\업다운 컨트롤(Nemeric)\업다운 컨트롤(Nemeric)\obj\Debug\업다운 컨트롤(Nemeric).csproj.GenerateResource.cache
+C:\Users\youdong\source\repos\업다운 컨트롤(Nemeric)\업다운 컨트롤(Nemeric)\obj\Debug\업다운 컨트롤(Nemeric).csproj.CoreCompileInputs.cache
+C:\Users\youdong\source\repos\업다운 컨트롤(Nemeric)\업다운 컨트롤(Nemeric)\obj\Debug\업다운 컨트롤(Nemeric).exe
+C:\Users\youdong\source\repos\업다운 컨트롤(Nemeric)\업다운 컨트롤(Nemeric)\obj\Debug\업다운 컨트롤(Nemeric).pdb

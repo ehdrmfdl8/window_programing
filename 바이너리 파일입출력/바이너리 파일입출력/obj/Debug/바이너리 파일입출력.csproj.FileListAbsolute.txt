@@ -1,0 +1,7 @@
+C:\Users\youdong\source\repos\바이너리 파일입출력\바이너리 파일입출력\obj\Debug\바이너리 파일입출력.csprojAssemblyReference.cache
+C:\Users\youdong\source\repos\바이너리 파일입출력\바이너리 파일입출력\obj\Debug\바이너리 파일입출력.csproj.CoreCompileInputs.cache
+C:\Users\youdong\source\repos\바이너리 파일입출력\바이너리 파일입출력\bin\Debug\바이너리 파일입출력.exe.config
+C:\Users\youdong\source\repos\바이너리 파일입출력\바이너리 파일입출력\bin\Debug\바이너리 파일입출력.exe
+C:\Users\youdong\source\repos\바이너리 파일입출력\바이너리 파일입출력\bin\Debug\바이너리 파일입출력.pdb
+C:\Users\youdong\source\repos\바이너리 파일입출력\바이너리 파일입출력\obj\Debug\바이너리 파일입출력.exe
+C:\Users\youdong\source\repos\바이너리 파일입출력\바이너리 파일입출력\obj\Debug\바이너리 파일입출력.pdb

@@ -1,0 +1,10 @@
+C:\Users\youdong\source\repos\스플릿터\스플릿터\bin\Debug\스플릿터.exe.config
+C:\Users\youdong\source\repos\스플릿터\스플릿터\bin\Debug\스플릿터.exe
+C:\Users\youdong\source\repos\스플릿터\스플릿터\bin\Debug\스플릿터.pdb
+C:\Users\youdong\source\repos\스플릿터\스플릿터\obj\Debug\스플릿터.csprojAssemblyReference.cache
+C:\Users\youdong\source\repos\스플릿터\스플릿터\obj\Debug\스플릿터.Form1.resources
+C:\Users\youdong\source\repos\스플릿터\스플릿터\obj\Debug\스플릿터.Properties.Resources.resources
+C:\Users\youdong\source\repos\스플릿터\스플릿터\obj\Debug\스플릿터.csproj.GenerateResource.cache
+C:\Users\youdong\source\repos\스플릿터\스플릿터\obj\Debug\스플릿터.csproj.CoreCompileInputs.cache
+C:\Users\youdong\source\repos\스플릿터\스플릿터\obj\Debug\스플릿터.exe
+C:\Users\youdong\source\repos\스플릿터\스플릿터\obj\Debug\스플릿터.pdb

@@ -1,0 +1,7 @@
+C:\Users\youdong\source\repos\연결형 데이터베이스(콘솔형)\연결형 데이터베이스(콘솔형)\bin\Debug\연결형 데이터베이스(콘솔형).exe.config
+C:\Users\youdong\source\repos\연결형 데이터베이스(콘솔형)\연결형 데이터베이스(콘솔형)\bin\Debug\연결형 데이터베이스(콘솔형).exe
+C:\Users\youdong\source\repos\연결형 데이터베이스(콘솔형)\연결형 데이터베이스(콘솔형)\bin\Debug\연결형 데이터베이스(콘솔형).pdb
+C:\Users\youdong\source\repos\연결형 데이터베이스(콘솔형)\연결형 데이터베이스(콘솔형)\obj\Debug\연결형 데이터베이스(콘솔형).csprojAssemblyReference.cache
+C:\Users\youdong\source\repos\연결형 데이터베이스(콘솔형)\연결형 데이터베이스(콘솔형)\obj\Debug\연결형 데이터베이스(콘솔형).csproj.CoreCompileInputs.cache
+C:\Users\youdong\source\repos\연결형 데이터베이스(콘솔형)\연결형 데이터베이스(콘솔형)\obj\Debug\연결형 데이터베이스(콘솔형).exe
+C:\Users\youdong\source\repos\연결형 데이터베이스(콘솔형)\연결형 데이터베이스(콘솔형)\obj\Debug\연결형 데이터베이스(콘솔형).pdb

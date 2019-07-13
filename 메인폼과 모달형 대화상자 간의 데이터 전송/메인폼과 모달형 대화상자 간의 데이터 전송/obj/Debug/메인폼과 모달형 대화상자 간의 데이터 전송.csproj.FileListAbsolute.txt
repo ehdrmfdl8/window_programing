@@ -1,0 +1,10 @@
+C:\Users\youdong\source\repos\메인폼과 모달형 대화상자 간의 데이터 전송\메인폼과 모달형 대화상자 간의 데이터 전송\bin\Debug\메인폼과 모달형 대화상자 간의 데이터 전송.exe.config
+C:\Users\youdong\source\repos\메인폼과 모달형 대화상자 간의 데이터 전송\메인폼과 모달형 대화상자 간의 데이터 전송\bin\Debug\메인폼과 모달형 대화상자 간의 데이터 전송.exe
+C:\Users\youdong\source\repos\메인폼과 모달형 대화상자 간의 데이터 전송\메인폼과 모달형 대화상자 간의 데이터 전송\bin\Debug\메인폼과 모달형 대화상자 간의 데이터 전송.pdb
+C:\Users\youdong\source\repos\메인폼과 모달형 대화상자 간의 데이터 전송\메인폼과 모달형 대화상자 간의 데이터 전송\obj\Debug\메인폼과_모달형_대화상자_간의_데이터_전송.Form1.resources
+C:\Users\youdong\source\repos\메인폼과 모달형 대화상자 간의 데이터 전송\메인폼과 모달형 대화상자 간의 데이터 전송\obj\Debug\메인폼과_모달형_대화상자_간의_데이터_전송.Form2.resources
+C:\Users\youdong\source\repos\메인폼과 모달형 대화상자 간의 데이터 전송\메인폼과 모달형 대화상자 간의 데이터 전송\obj\Debug\메인폼과_모달형_대화상자_간의_데이터_전송.Properties.Resources.resources
+C:\Users\youdong\source\repos\메인폼과 모달형 대화상자 간의 데이터 전송\메인폼과 모달형 대화상자 간의 데이터 전송\obj\Debug\메인폼과 모달형 대화상자 간의 데이터 전송.csproj.GenerateResource.cache
+C:\Users\youdong\source\repos\메인폼과 모달형 대화상자 간의 데이터 전송\메인폼과 모달형 대화상자 간의 데이터 전송\obj\Debug\메인폼과 모달형 대화상자 간의 데이터 전송.csproj.CoreCompileInputs.cache
+C:\Users\youdong\source\repos\메인폼과 모달형 대화상자 간의 데이터 전송\메인폼과 모달형 대화상자 간의 데이터 전송\obj\Debug\메인폼과 모달형 대화상자 간의 데이터 전송.exe
+C:\Users\youdong\source\repos\메인폼과 모달형 대화상자 간의 데이터 전송\메인폼과 모달형 대화상자 간의 데이터 전송\obj\Debug\메인폼과 모달형 대화상자 간의 데이터 전송.pdb

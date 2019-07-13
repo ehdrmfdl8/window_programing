@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.271
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "패널", "패널\패널.csproj", "{E3E65727-621C-4E75-A0DE-9890B198989C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E3E65727-621C-4E75-A0DE-9890B198989C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E3E65727-621C-4E75-A0DE-9890B198989C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E3E65727-621C-4E75-A0DE-9890B198989C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E3E65727-621C-4E75-A0DE-9890B198989C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6A4F7161-E47D-44FA-8D74-DA78A5EA4A0C}
+	EndGlobalSection
+EndGlobal

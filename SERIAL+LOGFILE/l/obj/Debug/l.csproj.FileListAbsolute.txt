@@ -1,0 +1,12 @@
+C:\Users\youdong\source\repos\l\l\obj\Debug\l.csprojAssemblyReference.cache
+C:\Users\youdong\source\repos\l\l\obj\Debug\l.Properties.Resources.resources
+C:\Users\youdong\source\repos\l\l\obj\Debug\l.csproj.GenerateResource.cache
+C:\Users\youdong\source\repos\l\l\obj\Debug\l.csproj.CoreCompileInputs.cache
+C:\Users\youdong\source\repos\l\l\bin\Debug\l.exe.config
+C:\Users\youdong\source\repos\l\l\bin\Debug\l.exe
+C:\Users\youdong\source\repos\l\l\bin\Debug\l.pdb
+C:\Users\youdong\source\repos\l\l\obj\Debug\l.exe
+C:\Users\youdong\source\repos\l\l\obj\Debug\l.pdb
+C:\Users\youdong\source\repos\l\l\bin\Debug\log4net.dll
+C:\Users\youdong\source\repos\l\l\bin\Debug\log4net.xml
+C:\Users\youdong\source\repos\l\l\obj\Debug\l.csproj.CopyComplete

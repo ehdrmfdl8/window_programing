@@ -1,0 +1,9 @@
+C:\Users\youdong\source\repos\레이아웃\레이아웃\bin\Debug\레이아웃.exe.config
+C:\Users\youdong\source\repos\레이아웃\레이아웃\bin\Debug\레이아웃.exe
+C:\Users\youdong\source\repos\레이아웃\레이아웃\bin\Debug\레이아웃.pdb
+C:\Users\youdong\source\repos\레이아웃\레이아웃\obj\Debug\레이아웃.Form1.resources
+C:\Users\youdong\source\repos\레이아웃\레이아웃\obj\Debug\레이아웃.Properties.Resources.resources
+C:\Users\youdong\source\repos\레이아웃\레이아웃\obj\Debug\레이아웃.csproj.GenerateResource.cache
+C:\Users\youdong\source\repos\레이아웃\레이아웃\obj\Debug\레이아웃.csproj.CoreCompileInputs.cache
+C:\Users\youdong\source\repos\레이아웃\레이아웃\obj\Debug\레이아웃.exe
+C:\Users\youdong\source\repos\레이아웃\레이아웃\obj\Debug\레이아웃.pdb

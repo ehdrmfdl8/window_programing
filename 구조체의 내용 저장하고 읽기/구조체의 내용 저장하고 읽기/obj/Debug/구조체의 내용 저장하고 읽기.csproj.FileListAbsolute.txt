@@ -1,0 +1,7 @@
+C:\Users\youdong\source\repos\구조체의 내용 저장하고 읽기\구조체의 내용 저장하고 읽기\bin\Debug\구조체의 내용 저장하고 읽기.exe.config
+C:\Users\youdong\source\repos\구조체의 내용 저장하고 읽기\구조체의 내용 저장하고 읽기\bin\Debug\구조체의 내용 저장하고 읽기.exe
+C:\Users\youdong\source\repos\구조체의 내용 저장하고 읽기\구조체의 내용 저장하고 읽기\bin\Debug\구조체의 내용 저장하고 읽기.pdb
+C:\Users\youdong\source\repos\구조체의 내용 저장하고 읽기\구조체의 내용 저장하고 읽기\obj\Debug\구조체의 내용 저장하고 읽기.csprojAssemblyReference.cache
+C:\Users\youdong\source\repos\구조체의 내용 저장하고 읽기\구조체의 내용 저장하고 읽기\obj\Debug\구조체의 내용 저장하고 읽기.csproj.CoreCompileInputs.cache
+C:\Users\youdong\source\repos\구조체의 내용 저장하고 읽기\구조체의 내용 저장하고 읽기\obj\Debug\구조체의 내용 저장하고 읽기.exe
+C:\Users\youdong\source\repos\구조체의 내용 저장하고 읽기\구조체의 내용 저장하고 읽기\obj\Debug\구조체의 내용 저장하고 읽기.pdb

@@ -1,0 +1,11 @@
+C:\Users\youdong\source\repos\대화형상자\대화형상자\bin\Debug\대화형상자.exe.config
+C:\Users\youdong\source\repos\대화형상자\대화형상자\bin\Debug\대화형상자.exe
+C:\Users\youdong\source\repos\대화형상자\대화형상자\bin\Debug\대화형상자.pdb
+C:\Users\youdong\source\repos\대화형상자\대화형상자\obj\Debug\대화형상자.csprojAssemblyReference.cache
+C:\Users\youdong\source\repos\대화형상자\대화형상자\obj\Debug\대화형상자.Form1.resources
+C:\Users\youdong\source\repos\대화형상자\대화형상자\obj\Debug\대화형상자.Properties.Resources.resources
+C:\Users\youdong\source\repos\대화형상자\대화형상자\obj\Debug\대화형상자.csproj.GenerateResource.cache
+C:\Users\youdong\source\repos\대화형상자\대화형상자\obj\Debug\대화형상자.csproj.CoreCompileInputs.cache
+C:\Users\youdong\source\repos\대화형상자\대화형상자\obj\Debug\대화형상자.exe
+C:\Users\youdong\source\repos\대화형상자\대화형상자\obj\Debug\대화형상자.pdb
+C:\Users\youdong\source\repos\대화형상자\대화형상자\obj\Debug\대화형상자.Form2.resources

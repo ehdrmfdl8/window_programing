@@ -1,0 +1,9 @@
+C:\Users\youdong\source\repos\업다운컨트롤(Domain)\업다운컨트롤(Domain)\bin\Debug\업다운컨트롤(Domain).exe.config
+C:\Users\youdong\source\repos\업다운컨트롤(Domain)\업다운컨트롤(Domain)\bin\Debug\업다운컨트롤(Domain).exe
+C:\Users\youdong\source\repos\업다운컨트롤(Domain)\업다운컨트롤(Domain)\bin\Debug\업다운컨트롤(Domain).pdb
+C:\Users\youdong\source\repos\업다운컨트롤(Domain)\업다운컨트롤(Domain)\obj\Debug\업다운컨트롤_Domain_.Form1.resources
+C:\Users\youdong\source\repos\업다운컨트롤(Domain)\업다운컨트롤(Domain)\obj\Debug\업다운컨트롤_Domain_.Properties.Resources.resources
+C:\Users\youdong\source\repos\업다운컨트롤(Domain)\업다운컨트롤(Domain)\obj\Debug\업다운컨트롤(Domain).csproj.GenerateResource.cache
+C:\Users\youdong\source\repos\업다운컨트롤(Domain)\업다운컨트롤(Domain)\obj\Debug\업다운컨트롤(Domain).csproj.CoreCompileInputs.cache
+C:\Users\youdong\source\repos\업다운컨트롤(Domain)\업다운컨트롤(Domain)\obj\Debug\업다운컨트롤(Domain).exe
+C:\Users\youdong\source\repos\업다운컨트롤(Domain)\업다운컨트롤(Domain)\obj\Debug\업다운컨트롤(Domain).pdb

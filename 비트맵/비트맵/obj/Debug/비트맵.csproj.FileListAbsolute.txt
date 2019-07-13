@@ -1,0 +1,10 @@
+C:\Users\youdong\source\repos\비트맵\비트맵\bin\Debug\비트맵.exe.config
+C:\Users\youdong\source\repos\비트맵\비트맵\bin\Debug\비트맵.exe
+C:\Users\youdong\source\repos\비트맵\비트맵\bin\Debug\비트맵.pdb
+C:\Users\youdong\source\repos\비트맵\비트맵\obj\Debug\비트맵.csprojAssemblyReference.cache
+C:\Users\youdong\source\repos\비트맵\비트맵\obj\Debug\비트맵.Form1.resources
+C:\Users\youdong\source\repos\비트맵\비트맵\obj\Debug\비트맵.Properties.Resources.resources
+C:\Users\youdong\source\repos\비트맵\비트맵\obj\Debug\비트맵.csproj.GenerateResource.cache
+C:\Users\youdong\source\repos\비트맵\비트맵\obj\Debug\비트맵.csproj.CoreCompileInputs.cache
+C:\Users\youdong\source\repos\비트맵\비트맵\obj\Debug\비트맵.exe
+C:\Users\youdong\source\repos\비트맵\비트맵\obj\Debug\비트맵.pdb

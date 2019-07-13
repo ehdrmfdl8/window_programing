@@ -1,0 +1,10 @@
+C:\Users\youdong\source\repos\마우스 드래그\마우스 드래그\bin\Debug\마우스 드래그.exe.config
+C:\Users\youdong\source\repos\마우스 드래그\마우스 드래그\bin\Debug\마우스 드래그.exe
+C:\Users\youdong\source\repos\마우스 드래그\마우스 드래그\bin\Debug\마우스 드래그.pdb
+C:\Users\youdong\source\repos\마우스 드래그\마우스 드래그\obj\Debug\마우스 드래그.csprojAssemblyReference.cache
+C:\Users\youdong\source\repos\마우스 드래그\마우스 드래그\obj\Debug\마우스_드래그.Form1.resources
+C:\Users\youdong\source\repos\마우스 드래그\마우스 드래그\obj\Debug\마우스_드래그.Properties.Resources.resources
+C:\Users\youdong\source\repos\마우스 드래그\마우스 드래그\obj\Debug\마우스 드래그.csproj.GenerateResource.cache
+C:\Users\youdong\source\repos\마우스 드래그\마우스 드래그\obj\Debug\마우스 드래그.csproj.CoreCompileInputs.cache
+C:\Users\youdong\source\repos\마우스 드래그\마우스 드래그\obj\Debug\마우스 드래그.exe
+C:\Users\youdong\source\repos\마우스 드래그\마우스 드래그\obj\Debug\마우스 드래그.pdb

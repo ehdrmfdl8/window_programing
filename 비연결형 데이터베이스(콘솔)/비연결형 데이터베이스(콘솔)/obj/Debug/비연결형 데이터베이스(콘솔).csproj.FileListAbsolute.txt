@@ -1,0 +1,7 @@
+C:\Users\youdong\source\repos\비연결형 데이터베이스(콘솔)\비연결형 데이터베이스(콘솔)\bin\Debug\비연결형 데이터베이스(콘솔).exe.config
+C:\Users\youdong\source\repos\비연결형 데이터베이스(콘솔)\비연결형 데이터베이스(콘솔)\bin\Debug\비연결형 데이터베이스(콘솔).exe
+C:\Users\youdong\source\repos\비연결형 데이터베이스(콘솔)\비연결형 데이터베이스(콘솔)\bin\Debug\비연결형 데이터베이스(콘솔).pdb
+C:\Users\youdong\source\repos\비연결형 데이터베이스(콘솔)\비연결형 데이터베이스(콘솔)\obj\Debug\비연결형 데이터베이스(콘솔).csprojAssemblyReference.cache
+C:\Users\youdong\source\repos\비연결형 데이터베이스(콘솔)\비연결형 데이터베이스(콘솔)\obj\Debug\비연결형 데이터베이스(콘솔).csproj.CoreCompileInputs.cache
+C:\Users\youdong\source\repos\비연결형 데이터베이스(콘솔)\비연결형 데이터베이스(콘솔)\obj\Debug\비연결형 데이터베이스(콘솔).exe
+C:\Users\youdong\source\repos\비연결형 데이터베이스(콘솔)\비연결형 데이터베이스(콘솔)\obj\Debug\비연결형 데이터베이스(콘솔).pdb

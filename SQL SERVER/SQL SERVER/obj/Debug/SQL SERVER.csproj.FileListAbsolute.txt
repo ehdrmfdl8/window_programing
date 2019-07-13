@@ -1,0 +1,10 @@
+C:\Users\youdong\source\repos\SQL SERVER\SQL SERVER\bin\Debug\SQL SERVER.exe.config
+C:\Users\youdong\source\repos\SQL SERVER\SQL SERVER\bin\Debug\SQL SERVER.exe
+C:\Users\youdong\source\repos\SQL SERVER\SQL SERVER\bin\Debug\SQL SERVER.pdb
+C:\Users\youdong\source\repos\SQL SERVER\SQL SERVER\obj\Debug\SQL SERVER.csprojAssemblyReference.cache
+C:\Users\youdong\source\repos\SQL SERVER\SQL SERVER\obj\Debug\SQL_SERVER.Form1.resources
+C:\Users\youdong\source\repos\SQL SERVER\SQL SERVER\obj\Debug\SQL_SERVER.Properties.Resources.resources
+C:\Users\youdong\source\repos\SQL SERVER\SQL SERVER\obj\Debug\SQL SERVER.csproj.GenerateResource.cache
+C:\Users\youdong\source\repos\SQL SERVER\SQL SERVER\obj\Debug\SQL SERVER.csproj.CoreCompileInputs.cache
+C:\Users\youdong\source\repos\SQL SERVER\SQL SERVER\obj\Debug\SQL SERVER.exe
+C:\Users\youdong\source\repos\SQL SERVER\SQL SERVER\obj\Debug\SQL SERVER.pdb

@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.168
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "File입출력", "File입출력\File입출력.vcxproj", "{8ACEBB38-E805-4142-AA43-032530DB4908}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8ACEBB38-E805-4142-AA43-032530DB4908}.Debug|x64.ActiveCfg = Debug|x64
+		{8ACEBB38-E805-4142-AA43-032530DB4908}.Debug|x64.Build.0 = Debug|x64
+		{8ACEBB38-E805-4142-AA43-032530DB4908}.Debug|x86.ActiveCfg = Debug|Win32
+		{8ACEBB38-E805-4142-AA43-032530DB4908}.Debug|x86.Build.0 = Debug|Win32
+		{8ACEBB38-E805-4142-AA43-032530DB4908}.Release|x64.ActiveCfg = Release|x64
+		{8ACEBB38-E805-4142-AA43-032530DB4908}.Release|x64.Build.0 = Release|x64
+		{8ACEBB38-E805-4142-AA43-032530DB4908}.Release|x86.ActiveCfg = Release|Win32
+		{8ACEBB38-E805-4142-AA43-032530DB4908}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D9CCB65F-7531-407F-BF47-3F8407F45901}
+	EndGlobalSection
+EndGlobal

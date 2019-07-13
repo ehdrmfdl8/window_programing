@@ -1,0 +1,10 @@
+C:\Users\youdong\source\repos\파일 입출력 대화상자\파일 입출력 대화상자\bin\Debug\파일 입출력 대화상자.exe.config
+C:\Users\youdong\source\repos\파일 입출력 대화상자\파일 입출력 대화상자\bin\Debug\파일 입출력 대화상자.exe
+C:\Users\youdong\source\repos\파일 입출력 대화상자\파일 입출력 대화상자\bin\Debug\파일 입출력 대화상자.pdb
+C:\Users\youdong\source\repos\파일 입출력 대화상자\파일 입출력 대화상자\obj\Debug\파일 입출력 대화상자.csprojAssemblyReference.cache
+C:\Users\youdong\source\repos\파일 입출력 대화상자\파일 입출력 대화상자\obj\Debug\파일_입출력_대화상자.Form1.resources
+C:\Users\youdong\source\repos\파일 입출력 대화상자\파일 입출력 대화상자\obj\Debug\파일_입출력_대화상자.Properties.Resources.resources
+C:\Users\youdong\source\repos\파일 입출력 대화상자\파일 입출력 대화상자\obj\Debug\파일 입출력 대화상자.csproj.GenerateResource.cache
+C:\Users\youdong\source\repos\파일 입출력 대화상자\파일 입출력 대화상자\obj\Debug\파일 입출력 대화상자.csproj.CoreCompileInputs.cache
+C:\Users\youdong\source\repos\파일 입출력 대화상자\파일 입출력 대화상자\obj\Debug\파일 입출력 대화상자.exe
+C:\Users\youdong\source\repos\파일 입출력 대화상자\파일 입출력 대화상자\obj\Debug\파일 입출력 대화상자.pdb
